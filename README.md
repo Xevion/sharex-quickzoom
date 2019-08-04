@@ -2,7 +2,7 @@
 
 ## The Repository
 
-![trtx: you can radially blur any image and it'll be funny](./resources/screenshot.png)
+![trtx: you can radially blur any image and it'll be funny](./package/ui/images/screenshot.png)
 
 The purpose of this project is to simply provide an easy way to apply a blur effect to an image using the ShareX application.
 The reasoning for zoom is mostly for personal humor.
@@ -12,7 +12,7 @@ The effect may reach into being just zoom for radially, depending on how far I c
 
 In case you wish to use this repo, these are the utilties you will require.
 
-### [./main.py](./process.py)
+**
 
 **os** - Path managemennt
 
@@ -21,12 +21,6 @@ In case you wish to use this repo, these are the utilties you will require.
 **argparse** - Parsing arguments from command line
 
 **subprocess** - Issuing commands to ImageMagick
-
-### [./clean.py](./clean.py)
-
-**os** - Path Management
-
-**sys** - Path Management
 
 **send2trash** - sending files to recycle bin instead of permanently deleting
 

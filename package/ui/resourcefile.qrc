@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="logo">
+    <file>images/Imagemagick.png</file>
+    <file>images/qt_design.png</file>
+    <file>images/sharex.png</file>
+  </qresource>
+</RCC>

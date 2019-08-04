@@ -21,7 +21,7 @@ def run(recycle=True, print_ignores=False):
         print_ignores {bool} -- True to print what files have been ignored (default: {False})
     """
 
-    # ternary raise support function, shouldn't ever be raised
+    # ternary raise support function, shouldn't ever be raised normally
     def raiseMe(filePath):
         raise('Invalid file or folder ; \'{}\''.format(filePath))
 

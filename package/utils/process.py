@@ -31,4 +31,5 @@ for path in [base_path, blur_map, input_path, output_path]:
 # command = ['magick convert', input_path, blur_map, '-compose blur', '-define', 'compose:args=' + command_args, '-composite ', output_path]
 command = 'magick convert {} {} -compose blur -define compose:args={} -composite {}'.format(input_path, blur_map, command_args, output_path)
 print(command)
+breakpoint
 subprocess.run(command.split(' '))
