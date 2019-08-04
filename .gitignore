@@ -1,4 +1,5 @@
 # Custom Additions
+/temp/
 *.png
 !/screenshot.png
 *.jpg
