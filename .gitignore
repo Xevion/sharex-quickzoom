@@ -1,5 +1,6 @@
 # Custom Additions
 *.png
+!/screenshot.png
 *.jpg
 *.jpeg
 *.gif
