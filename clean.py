@@ -1,12 +1,14 @@
 import os, sys, send2trash
 
 blacklist = [
+        # files
         'clean.py',
         'main.py',
-        'LICENSE',
+        'LICENSE.md',
         'screenshot.png',
         'README.md',
         '.git',
+        # folders
         '.gitignore',
         'resources'
 ]
