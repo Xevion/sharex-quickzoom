@@ -1,7 +1,7 @@
 # Custom Additions
 /temp/
 *.png
-!/screenshot.png
+!/resources/screenshot.png
 *.jpg
 *.jpeg
 *.gif
