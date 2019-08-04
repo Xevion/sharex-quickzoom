@@ -12,7 +12,7 @@ The effect may reach into being just zoom for radially, depending on how far I c
 
 In case you wish to use this repo, these are the utilties you will require.
 
-### [./main.py](./clean.py)
+### [./main.py](./process.py)
 
 **os** - Path managemennt
 

@@ -6,6 +6,8 @@
 *.jpeg
 *.gif
 *.dat
+/qt-creator/*
+!/qt-creator/sharex-quickzoom/mainwindow.ui
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
