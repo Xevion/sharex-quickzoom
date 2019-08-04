@@ -1,4 +1,4 @@
-import os, sys, time, argparse, subprocess
+import os, sys, argparse, subprocess
 
 # Simple tester for testing whether a file exists.
 # StackOverflow https://stackoverflow.com/a/51212150/6912830
